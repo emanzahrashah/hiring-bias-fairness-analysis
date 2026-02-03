@@ -7,12 +7,12 @@ using fairness metrics.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 ![Dashboard](assets/dashboard.png)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 hiring-bias-fairness/
 ├── app.py # Dash dashboard application
 ├── notebooks/ # EDA and ML modeling
@@ -25,7 +25,7 @@ hiring-bias-fairness/
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 Steps performed in this project:
 - Exploratory Data Analysis (EDA)
 - Feature encoding and preprocessing
@@ -36,7 +36,7 @@ Steps performed in this project:
 
 ---
 
-## ⚖️ Fairness Metrics Used
+## Fairness Metrics Used
 - **Shortlisted Rate** – how often candidates are predicted as shortlisted
 - **Recall** – how many qualified candidates are correctly identified
 - **False Negative Rate** – how often qualified candidates are missed
@@ -45,7 +45,7 @@ These metrics are compared across gender groups to identify disparities.
 
 ---
 
-## 🚀 Dashboard
+## Dashboard
 The Dash dashboard visualizes:
 - Predicted shortlisting rate by gender
 - Recall by gender
@@ -53,7 +53,7 @@ The Dash dashboard visualizes:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas, NumPy
 - Scikit-learn
@@ -61,7 +61,8 @@ The Dash dashboard visualizes:
 
 ---
 
-## ▶️ How to Run the Dashboard
+## How to Run the Dashboard
 ```bash
 cd hiring-bias-fairness
 python app.py
+
