@@ -8,7 +8,8 @@ using fairness metrics.
 ---
 
 ## Dashboard Preview
-![Dashboard](assets/dashboard.png)
+<img width="1913" height="749" alt="dashboard" src="https://github.com/user-attachments/assets/b3366d4d-715e-42bb-b1ba-d682d8dbc6b2" />
+
 
 ---
 
